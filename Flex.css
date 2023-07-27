@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.Container{
+    max-width: 500px;
+    margin: 0 auto ;
+    border: 2px solid orangered;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.item{
+    background-color: white;
+    color:  orangered;
+    margin: 5px;
+    text-align: center;
+    font-size: 50px;
+}
